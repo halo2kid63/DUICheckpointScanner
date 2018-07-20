@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">DUI Scanner</string>
+<string name="title_activity_maps">DUI Scanner</string>
+<string name="number_of_day">Number of Day:</string>
+<string name="minus">-</string>
+<string name="value_1">1</string>
+<string name="plus">+</string>
+<string name="update">Update</string>
+</resources>
